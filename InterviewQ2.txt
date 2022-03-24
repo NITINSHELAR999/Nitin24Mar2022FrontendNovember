@@ -1,0 +1,11 @@
+Q2)What are the CSS frameworks?
+
+Ans-
+
+CSS frameworks are the preplanned libraries which make easy and more standard compliant web page styling. The frequently used CSS frameworks are: -
+
+Bootstrap
+Foundation
+Semantic UI
+Gumby
+Ulkit

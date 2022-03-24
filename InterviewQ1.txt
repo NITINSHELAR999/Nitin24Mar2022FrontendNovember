@@ -1,0 +1,10 @@
+ Q1)What are the limitations of CSS?
+
+Ans-
+
+Ascending by selectors is not possible
+Limitations of vertical control
+No expressions
+No column declaration
+Pseudo-class not controlled by dynamic behavior
+Rules, styles, targeting specific text not possible

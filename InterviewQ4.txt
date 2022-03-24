@@ -1,0 +1,15 @@
+Q4)What is Embedded Style Sheet?
+
+Ans-
+
+An Embedded style sheet is a CSS style specification method used with HTML. You can embed the entire stylesheet in an HTML document by using the STYLE element. More details...
+
+ <style>    
+body {    
+    background-color: linen;    
+}    
+h1 {    
+    color: red;    
+    margin-left: 80px;    
+}     
+</style>   
